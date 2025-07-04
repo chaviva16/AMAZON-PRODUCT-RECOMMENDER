@@ -43,33 +43,6 @@ Pandas
 
 Streamlit
 
-## 📦 Installation
-Clone this repo and run it locally:
-
-git clone https://github.com/your-username/amazon-recommender-app.git
-cd products_review
-
-# (Optional) Create virtual environment
-python -m venv venv
-source venv/bin/activate  # or use venv\Scripts\activate on Windows
-
-## Install dependencies
-pip install streamlit pandas
-▶️ Run the App
-bash
-Copy
-Edit
-streamlit run product_review.py
-Make sure amazon.csv is in the same directory.
-
-💡 How It Works
-Loads and filters product data from a CSV file.
-
-Allows user to pick a category and product.
-
-Displays product details and 5 related recommendations.
-
-Ensures only valid product images are shown.
 
 ## ✨ Future Improvements
 ✅ Default placeholder for broken image URLs
