@@ -1,6 +1,6 @@
 ## 🛍️ Amazon Product Recommender
 An interactive Streamlit web app that suggests similar Amazon products based on the user's selected item and category.
-Cleanly designed and easy to use, the app features product images, prices, ratings, and direct Amazon links — all powered by a structured CSV dataset.
+Cleanly designed and easy to use, the app features product images, prices, ratings, and direct Amazon links.
 
 🔗 Live App: https://amazon-recommedation.streamlit.app
 
